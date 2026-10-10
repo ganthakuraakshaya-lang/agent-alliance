@@ -1,0 +1,6 @@
+{
+  "name": "FIR ANALYZER AGENT",
+  "description": "AI-assisted police complaint analysis prototype for organizing complaint details, identifying gaps, drafting structured reports, and recommending follow-up actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
